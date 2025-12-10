@@ -1,2 +1,2 @@
 # Customer-Segmentation-for-Marketing-Decision-Using-K-Means-Clustering
-Nigeria E-Commerce Customer Segmentation for Marketing Decision Using K-Means Clustering. The Data set was gotten from huggingface and encompasses various e-commerce firms in Nigeria including such as Jumia (35%), Konga (25%), Jiji (20%), as well as other smaller E-commerce platforms. 
+A Python-based project that segments Nigerian retail and e-commerce customers using unsupervised machine learning. Analyze customer behavior, discover actionable insights, and enable targeted marketing strategies. Includes data preprocessing, clustering, visualizations, and detailed analysis.
